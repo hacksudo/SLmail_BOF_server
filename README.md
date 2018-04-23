@@ -24,5 +24,6 @@ Link fo the Vulnerable SLMail Server:
 
 https://www.exploit-db.com/exploits/638/
 
+For Output snips You can refer my blog at https://computer-lords.blogspot.in/2018/04/first-bufferoverflow-exploit.html
 
 Happy Hacking :)
