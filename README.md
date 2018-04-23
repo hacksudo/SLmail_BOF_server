@@ -1,4 +1,4 @@
-his is a simple BufferOverflow exploit found on a SlMail server using pop3 protocol.
+This is a simple BufferOverflow exploit found on a SlMail server using pop3 protocol.
 
 The other files includes the various stages of exploits.
 
