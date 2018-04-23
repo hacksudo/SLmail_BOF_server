@@ -20,4 +20,9 @@ then a simple exploit is built using the msfvenom to add the payload.
 now this gives the final exploit "slmailexploit.py"
 
 
+Link fo the Vulnerable SLMail Server:
+
+https://www.exploit-db.com/exploits/638/
+
+
 Happy Hacking :)
