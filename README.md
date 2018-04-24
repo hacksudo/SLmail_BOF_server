@@ -15,7 +15,7 @@ now the list of bad characters is identified with the help of the "bof_poc2.py" 
 
 Now is final phase where the exac dll must be identified. For which the mona.py modules can be used.And the jmp  address is noted for the corresponding address in nasn_shell.reb
 
-then a simple exploit is built using the msfvenom to add the payload.
+then a simple exploit is built using the msfvenom to add the payload with reverse shell.
 
 now this gives the final exploit "slmailexploit.py"
 
