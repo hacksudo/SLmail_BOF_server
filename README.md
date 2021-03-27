@@ -1,3 +1,5 @@
+#hacksudo Present SLmail BOF server code 
+<h1> SLmail BOF walkhtrhough<h1>
 This is a simple BufferOverflow exploit found on a SlMail server using pop3 protocol.
 
 The other files includes the various stages of exploits.
@@ -24,6 +26,7 @@ Link fo the Vulnerable SLMail Server:
 
 https://www.exploit-db.com/exploits/638/
 
-For Output snips You can refer my blog at https://computer-lords.blogspot.in/2018/04/first-bufferoverflow-exploit.html
+For Output snips You can refer my blog at https://leetvilu.blogspot.com/2021/03/buffer-overflow-exploiting-slmail-email.html
+visit our official Website ; https://hacksudo.com
 
 Happy Hacking :)
