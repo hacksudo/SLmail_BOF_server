@@ -5,21 +5,21 @@ This is a simple BufferOverflow exploit found on a SlMail server using pop3 prot
 The other files includes the various stages of exploits.
 
 
-Intially the "bof_fuzzer.py", helps to gradually locate the buffer length such that it could be exploited.
+Intially the <b>"bof_fuzzer.py",</b> helps to gradually locate the buffer length such that it could be exploited.
 
-Then unique pattern can be generated with the metasploit module "pattern_create.rb", the pattern generated with it is used to find the exact position of the input length which is placed at the EIP pointer :)
+Then unique pattern can be generated with the metasploit module <b>"pattern_create.rb"</b>, the pattern generated with it is used to find the exact position of the input length which is placed at the <b>EIP pointer</b> :)
 
-Using debuggers the pattern in side the EIP is identified and the position is identified using the "pattern_offset.rb" module in metasploit.
+Using debuggers the pattern in side the EIP is identified and the position is identified using the <b>"pattern_offset.rb" </b>module in metasploit.
 
 with the position of the input location and EIP. Now its easy to exploit it.
 
-now the list of bad characters is identified with the help of the "bof_poc2.py" which is a very simple python script ;). and further refined with the "bof_poc3.py"
+now the list of bad characters is identified with the help of the <b>"bof_poc2.py" </b>which is a very simple python script ;). and further refined with the <b>"bof_poc3.py"</b>
 
-Now is final phase where the exac dll must be identified. For which the mona.py modules can be used.And the jmp  address is noted for the corresponding address in nasn_shell.reb
+Now is final phase where the exac dll must be identified. For which the <b>mona.py modules</b> can be used.And the jmp  address is noted for the corresponding address in <b>nasn_shell.reb</b>
 
-then a simple exploit is built using the msfvenom to add the payload with reverse shell.
+then a simple exploit is built using the<b> msfvenom to add the payload with reverse shell.</b>
 
-now this gives the final exploit "slmailexploit.py"
+now this gives the final exploit<b> "slmailexploit.py"</b>
 
 
 Link fo the Vulnerable SLMail Server:
