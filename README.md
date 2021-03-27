@@ -28,6 +28,7 @@ https://www.exploit-db.com/exploits/638/
 
 <n>For Output snips You can refer my blog at https://leetvilu.blogspot.com/2021/03/buffer-overflow-exploiting-slmail-email.html</n>
 <n>visit our official Website : https://hacksudo.com</n>
-<n> visit linkedin https://www.linkedin.com/in/realvilu
-  <n> Author Vishal waghmare</n>
-Happy Hacking :)
+<n>hacksudo Linkedin https://www.linkedin.com/in/hack-sudo-230a871b3/</n>
+<n> visit linkedin https://www.linkedin.com/in/realvilu </n>
+<n> <h2>Author Vishal waghmare</h2></n>
+<h3>Happy Hacking :)</h3>
